@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4be11112-1534-4bfc-87b6-13a769421360" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/_formTheme.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/_formTheme.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/admin/genus/_form.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/admin/genus/_form.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/services.yml" afterPath="$PROJECT_DIR$/app/config/services.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Form/GenusFormType.php" afterPath="$PROJECT_DIR$/src/AppBundle/Form/GenusFormType.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="services.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+      <file leaf-file-name="_form.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/admin/genus/_form.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            <state relative-caret-position="416">
+              <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -47,11 +45,11 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app/config/config.yml" />
-        <option value="$PROJECT_DIR$/app/Resources/views/admin/genus/_form.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_formTheme.html.twig" />
-        <option value="$PROJECT_DIR$/src/AppBundle/Form/GenusFormType.php" />
         <option value="$PROJECT_DIR$/src/AppBundle/Form/TypeExtension/HelpFormExtension.php" />
         <option value="$PROJECT_DIR$/app/config/services.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/GenusFormType.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/admin/genus/_form.html.twig" />
       </list>
     </option>
   </component>
@@ -208,12 +206,12 @@
       <option name="presentableId" value="Default" />
       <updated>1518533382773</updated>
       <workItem from="1518533385095" duration="2963000" />
-      <workItem from="1518592036696" duration="4518000" />
+      <workItem from="1518592036696" duration="5603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7481000" />
+    <option name="totallyTimeSpent" value="8566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="950" y="0" width="980" height="1030" extended-state="0" />
@@ -488,11 +486,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/admin/genus/_form.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/TypeExtension/HelpFormExtension.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="175">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1518603808045" expanded="true" signature="53:289" ph="..." />
+            <marker date="1518603808045" expanded="true" signature="344:742" ph="{...}" />
+            <marker date="1518603808045" expanded="true" signature="384:428" ph="{...}" />
+            <marker date="1518603808045" expanded="true" signature="493:550" ph="{...}" />
+            <marker date="1518603808045" expanded="true" signature="634:740" ph="{...}" />
+            <marker date="1518603808045" expanded="true" signature="672:733" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <marker date="1518603929392" expanded="true" signature="159:1097" ph="services: &lt;5 keys&gt;" />
+            <marker date="1518603929392" expanded="true" signature="173:338" ph="app.markd…ransformer: &lt;2 keys&gt;" />
+            <marker date="1518603929392" expanded="true" signature="214:251" ph="AppBundle…ransformer" />
+            <marker date="1518603929392" expanded="true" signature="260:338" ph="arguments: [2 items]" />
+            <marker date="1518603929392" expanded="true" signature="272:290" ph="@markdown.parser" />
+            <marker date="1518603929392" expanded="true" signature="292:337" ph="@doctrine…down_cache" />
+            <marker date="1518603929392" expanded="true" signature="344:541" ph="app.markd…_extension: &lt;3 keys&gt;" />
+            <marker date="1518603929392" expanded="true" signature="383:415" ph="AppBundle…nExtension" />
+            <marker date="1518603929392" expanded="true" signature="424:468" ph="tags: &lt;1 item&gt;" />
+            <marker date="1518603929392" expanded="true" signature="452:466" ph="twig.extension" />
+            <marker date="1518603929392" expanded="true" signature="537:541" ph="true" />
+            <marker date="1518603929392" expanded="true" signature="547:665" ph="app.secur…henticator: &lt;2 keys&gt;" />
+            <marker date="1518603929392" expanded="true" signature="601:642" ph="AppBundle…henticator" />
+            <marker date="1518603929392" expanded="true" signature="661:665" ph="true" />
+            <marker date="1518603929392" expanded="true" signature="671:849" ph="app.doctr…d_listener: &lt;3 keys&gt;" />
+            <marker date="1518603929392" expanded="true" signature="723:762" ph="AppBundle…rdListener" />
+            <marker date="1518603929392" expanded="true" signature="781:785" ph="true" />
+            <marker date="1518603929392" expanded="true" signature="794:849" ph="tags: &lt;1 item&gt;" />
+            <marker date="1518603929392" expanded="true" signature="822:847" ph="doctrine.…subscriber" />
+            <marker date="1518603929392" expanded="true" signature="855:1097" ph="app.form.…_extension: &lt;3 keys&gt;" />
+            <marker date="1518603929392" expanded="true" signature="900:946" ph="AppBundle…mExtension" />
+            <marker date="1518603929392" expanded="true" signature="965:969" ph="true" />
+            <marker date="1518603929392" expanded="true" signature="978:1097" ph="tags: &lt;1 item&gt;" />
+            <marker date="1518603929392" expanded="true" signature="1006:1025" ph="form.type_extension" />
+            <marker date="1518603929392" expanded="true" signature="1042:1095" ph="Symfony\C…e\FormType" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -520,50 +559,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/GenusFormType.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        <state relative-caret-position="329">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
           <folding>
-            <marker date="1518603735950" expanded="false" signature="38:501" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="543:1742" ph="{...}" />
-            <marker date="1518603735950" expanded="true" signature="622:1565" ph="{...}" />
-            <marker date="1518603735950" expanded="true" signature="664:670" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="690:997" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="723:996" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="897:982" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="1017:1031" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="1051:1154" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="1069:1153" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="1174:1342" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="1209:1341" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="1240:1327" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="1362:1548" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="1401:1547" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="1630:1740" ph="{...}" />
-            <marker date="1518603735950" expanded="true" signature="1668:1732" ph="..." />
-            <marker date="1518603735950" expanded="true" signature="1669:1731" ph="..." />
+            <marker date="1518604122453" expanded="false" signature="38:501" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="543:1748" ph="{...}" />
+            <marker date="1518604122453" expanded="true" signature="622:1571" ph="{...}" />
+            <marker date="1518604122453" expanded="true" signature="664:670" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="690:997" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="723:996" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="897:982" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="1017:1031" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="1051:1154" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="1069:1153" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="1174:1342" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="1209:1341" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="1240:1327" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="1362:1554" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="1401:1553" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="1636:1746" ph="{...}" />
+            <marker date="1518604122453" expanded="true" signature="1674:1738" ph="..." />
+            <marker date="1518604122453" expanded="true" signature="1675:1737" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/TypeExtension/HelpFormExtension.php">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/admin/genus/_form.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <marker date="1518603808045" expanded="true" signature="53:289" ph="..." />
-            <marker date="1518603808045" expanded="true" signature="344:742" ph="{...}" />
-            <marker date="1518603808045" expanded="true" signature="384:428" ph="{...}" />
-            <marker date="1518603808045" expanded="true" signature="493:550" ph="{...}" />
-            <marker date="1518603808045" expanded="true" signature="634:740" ph="{...}" />
-            <marker date="1518603808045" expanded="true" signature="672:733" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/services.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        <state relative-caret-position="416">
+          <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
           <folding />
         </state>
       </provider>
